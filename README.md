@@ -1,3 +1,3 @@
 # BMI-Calculator
 
-Check out the completed website -> https://prashoon123.github.io/BMI-Calculator/
+Check out the completed website -> https://accurate-bmi-calculator.netlify.app/
