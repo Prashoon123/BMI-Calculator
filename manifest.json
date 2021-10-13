@@ -3,7 +3,7 @@
   "name": "BMI Calculator",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "./assets/icon.png",
       "type": "image/png",
       "sizes": "400x400"
     }
